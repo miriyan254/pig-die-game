@@ -31,3 +31,14 @@ p {
 	padding: 1rem;
 	font-size: 2rem;
 }
+
+img{
+	width: 10rem;
+	height:10rem;
+	object-fit: cover;	 
+}
+
+button {
+	margin: 1rem;
+	padding: 1rem;
+}
